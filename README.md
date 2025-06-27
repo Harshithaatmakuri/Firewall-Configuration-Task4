@@ -1,5 +1,7 @@
 # Task 4 – Firewall Configuration (Windows)
 
+This project focuses on configuring a Windows Firewall rule to block Telnet traffic (port 23) using the Windows Defender Firewall with Advanced Security GUI. The goal is to gain hands-on experience with firewall rule creation, network traffic filtering, and improving system security by disabling an outdated and insecure protocol.
+
 ## 🔐 Objective
 To configure Windows Firewall to block Telnet traffic (port 23) and gain practical experience with basic firewall rule management.
 
@@ -27,7 +29,7 @@ To configure Windows Firewall to block Telnet traffic (port 23) and gain practic
 - This task demonstrates basic network traffic filtering using Windows Firewall.
 
 ## 📸 Screenshot
-- `firewall_telnet_block.png` – shows the blocked Telnet rule in the firewall.
+- `Screenshot (3).png` – shows the blocked Telnet rule created in the Windows Firewall interface with action set to **Block**, protocol as **TCP**, and the rule **enabled** for all profiles.
 
-## 📘 Outcome
-Successfully created, tested, and managed a firewall rule in Windows to block Telnet traffic, demonstrating understanding of inbound rules and traffic filtering.
+## 📘 Outcome  
+Successfully configured and tested a Windows Firewall rule to block Telnet (port 23), demonstrating basic firewall management skills and an understanding of network traffic filtering.
