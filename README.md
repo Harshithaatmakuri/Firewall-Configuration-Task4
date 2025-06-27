@@ -31,4 +31,3 @@ To configure Windows Firewall to block Telnet traffic (port 23) and gain practic
 
 ## 📘 Outcome
 Successfully created, tested, and managed a firewall rule in Windows to block Telnet traffic, demonstrating understanding of inbound rules and traffic filtering.
-
